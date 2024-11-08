@@ -1,0 +1,24 @@
+
+.content {
+  position: relative;
+  z-index: 1;
+  padding: 20px;
+  color: #fff; /* Text color for the content */
+}
+
+
+.container {
+  text-align: center;
+}
+
+#label {
+  display: block;
+  font-size: 20px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+#filter {
+  width: 300px; /* Adjust width as needed */
+  margin-bottom: 20px;
+}
